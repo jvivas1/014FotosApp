@@ -21,7 +21,9 @@
     "@angular/platform-browser": "^5.2.11",
     "@angular/platform-browser-dynamic": "^5.2.11",
     "@angular/router": "^5.2.11",
+    "angularfire2": "^5.0.0-rc.4",
     "core-js": "^2.5.6",
+    "firebase": "^4.8.0",
     "rxjs": "^5.5.11",
     "zone.js": "^0.8.26"
   },
